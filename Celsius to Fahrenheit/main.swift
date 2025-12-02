@@ -7,6 +7,11 @@
 
 import Foundation
 
-var celsius = 0
+let cel = 25.4
+
+let fah = ((cel*9)/5) + 32
+
+print("Celsius is \(cel) and Fahrenheit is \(fah)")
+
 
 
