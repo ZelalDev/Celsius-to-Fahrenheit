@@ -11,7 +11,7 @@ let cel = 25.4
 
 let fah = ((cel*9)/5) + 32
 
-print("Celsius is \(cel) and Fahrenheit is \(fah)")
+print("Celsius is \(cel)°C and Fahrenheit is \(fah)°F")
 
 
 
