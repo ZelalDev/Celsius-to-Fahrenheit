@@ -31,3 +31,6 @@ Celsius is 25.4°C and Fahrenheit is 77.72°F
 
 ## 👤 Author
 Zelal Aydın
+
+##  
+"This repository serves as a journal of my Swift and SwiftUI learning journey. It documents my step-by-step progress and growth as part of the '100 Days of SwiftUI' challenge."
